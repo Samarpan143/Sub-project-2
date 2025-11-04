@@ -1,0 +1,13 @@
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\bin\Debug\net8.0\DataServiceLayer.deps.json
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\bin\Debug\net8.0\DataServiceLayer.dll
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\bin\Debug\net8.0\DataServiceLayer.pdb
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\obj\Debug\net8.0\DataServiceLayer.csproj.AssemblyReference.cache
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\obj\Debug\net8.0\DataServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\obj\Debug\net8.0\DataServiceLayer.AssemblyInfoInputs.cache
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\obj\Debug\net8.0\DataServiceLayer.AssemblyInfo.cs
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\obj\Debug\net8.0\DataServiceLayer.csproj.CoreCompileInputs.cache
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\obj\Debug\net8.0\DataServiceLayer.sourcelink.json
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\obj\Debug\net8.0\DataServiceLayer.dll
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\obj\Debug\net8.0\refint\DataServiceLayer.dll
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\obj\Debug\net8.0\DataServiceLayer.pdb
+D:\masters project 1st sem\Subproject 2\Backend\DataServiceLayer\obj\Debug\net8.0\ref\DataServiceLayer.dll
